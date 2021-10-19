@@ -1,6 +1,6 @@
 # NeuroSED Experiments
 
-This repository contains the Jupyter Notebooks used to run the experiments reported in the paper "A Neural Framework for Learning Graph and Subgraph Similarity Measures". The notebooks have paths and configurations which are custom to our setup, but these can easily be adapted to experiment in general settings.
+This repository contains the Jupyter notebooks used to run the experiments reported in the paper "NeuroSED: Learning Subgraph Similarity via Graph Neural Networks". The main repository is [NeuroSED](https://github.com/idea-iitd/NeuroSED). The notebooks have paths and configurations which are custom to our setup, but these can easily be adapted to experiment in general settings.
 
 ## Directory descriptions
 
